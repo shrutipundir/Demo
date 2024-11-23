@@ -1,0 +1,32 @@
+AppData
+Application\ Data
+Contacts
+Cookies
+Desktop
+Documents
+Downloads
+eclipse-workspace
+Favorites
+Links
+Local\ Settings
+Music
+My\ Documents
+NetHood
+NTUSER.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+NTUSER.DAT{8e4762b3-5e23-11ef-b695-683421d66fc2}.TM.blf
+NTUSER.DAT{8e4762b3-5e23-11ef-b695-683421d66fc2}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{8e4762b3-5e23-11ef-b695-683421d66fc2}.TMContainer00000000000000000002.regtrans-ms
+ntuser.ini
+OneDrive
+Pictures
+PrintHood
+Recent
+Saved\ Games
+Searches
+SendTo
+Start\ Menu
+Templates
+test2.txt
+Videos
